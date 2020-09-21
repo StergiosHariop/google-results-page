@@ -44,6 +44,8 @@ a:hover{
     background-size:20px 20px;
     background-position: 650px;
     border: 1px solid rgba(197,197,197,0.5);
+    text-align:left;
+    text-indent:20px;
 }
 .bar:hover {
     box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
